@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/features/step_definitions/output/CRX_CONS_ACTION_RESOLUTION_DEF.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/features/step_definitions/output/CRX_CONS_ACTION_RESOLUTION_DEF_VAL.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/features/step_definitions/output/CRX_CONS_DEFINITION.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/features/step_definitions/output/CRX_CONS_SUPP_DTL_DEF.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/features/step_definitions/output/CRX_CONS_SUPP_DTL_DEF_VAL.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/features/step_definitions/output/CRX_CONS_TYPE.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/features/step_definitions/output/CRX_DATA_DEF.sql" dialect="TSQL" />
+  </component>
+</project>
+
